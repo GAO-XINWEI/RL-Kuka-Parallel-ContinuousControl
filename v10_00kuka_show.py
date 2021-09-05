@@ -9,7 +9,6 @@ import gym
 
 import torch
 import torch.nn as nn
-# import torch.nn.functional as F
 from torch.distributions import MultivariateNormal
 import torchvision.transforms as tran
 
