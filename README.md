@@ -12,5 +12,5 @@ This is a pybullet KUKA manupulator continuous control code base. Based on PPO, 
 2. pybullet
 3. matplotlib
 4. numpy
-## Result video
+## Result Video
 https://www.bilibili.com/video/BV1jA411G7BH?spm_id_from=333.999.0.0
